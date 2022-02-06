@@ -1,0 +1,142 @@
+If you are looking for a study guide to prepare for the 301-a LTM Certification: Architect, Set-up & Deploy, then this is for you: 
+
+K7820: Overview of SNAT features
+https://support.f5.com/csp/article/K7820
+
+Manual Chapter : Managing Failover
+https://techdocs.f5.com/kb/en-us/products/big-ip_ltm/manuals/product/bigip-device-service-clustering-admin-11-5-0/8.html
+
+Score bonus & failover condition
+https://www.devcentral.f5.com/s/question/0D51T00006i7XR6/score-bonus-failover-condition
+
+Match across services for different persistent profiles
+https://devcentral.f5.com/s/question/0D51T00006sTDMe/match-across-services-for-different-persistent-profiles
+
+K5837: Match Across options for session persistence
+https://support.f5.com/csp/article/K5837
+
+K03553427: Using optimized TCP profiles
+https://support.f5.com/csp/article/K03553427
+
+K35612380: Troubleshooting Latency by Capturing Traffic
+https://support.f5.com/csp/article/K35612380
+
+K15367: Configuring gateway fail-safe using tmsh (11.x - 13.x)
+https://support.f5.com/csp/article/K15367
+
+K13297: Overview of VLAN failsafe (10.x - 15.x)4
+https://support.f5.com/csp/article/K13297
+
+Manual : BIG-IP Analytics: Implementations
+https://techdocs.f5.com/kb/en-us/products/big-ip_analytics/manuals/product/analytics-implementations-12-1-0.html
+
+K13083: Configuring syslog settings from the command line (11.x - 15.x)
+https://support.f5.com/csp/article/K13083
+
+K13333: Filtering log messages sent to remote syslog servers (11.x - 15.x)
+https://support.f5.com/csp/article/K13333
+
+K09948701: Overview of the FastL4 profile
+https://support.f5.com/csp/article/K09948701
+
+Manual : BIG-IP Local Traffic Manager: Implementations
+https://techdocs.f5.com/kb/en-us/products/big-ip_ltm/manuals/product/ltm-implementations-11-5-1.html
+
+Manual Chapter : Session Persistence Profiles
+https://techdocs.f5.com/kb/en-us/products/big-ip_ltm/manuals/product/ltm-profiles-reference-13-0-0/4.html
+
+K83419154: Overview of cookie persistence
+https://support.f5.com/csp/article/K83419154
+
+Manual : BIG-IP Local Traffic Manager: Monitors Reference
+https://techdocs.f5.com/kb/en-us/products/big-ip_ltm/manuals/product/ltm-monitors-reference-12-0-0.html
+
+Manual Chapter : About Pools
+https://techdocs.f5.com/kb/en-us/products/big-ip_ltm/manuals/product/ltm-basics-11-6-0/4.html#referenceid
+
+LTM Load Balancing Algorithms: Least Connections Types
+https://www.youtube.com/watch?v=tAAmZ3bz8AA
+
+K13310: Disabling nodes or pool members for maintenance (11.x - 16.x)
+https://support.f5.com/csp/article/K13310
+
+K12818: Using the Receive Disable String advanced configuration setting
+https://support.f5.com/csp/article/K12818
+
+K16008: Overview of BIG-IP pool status (11.x - 16.x)
+https://support.f5.com/csp/article/K16008
+
+K02024845: BIG-IP LTM-DNS operations guide | Chapter 2: BIG-IP LTM load balancing
+https://support.f5.com/csp/article/K02024845
+
+12213214: Overview of colored status icons in the Configuration utility
+https://support.f5.com/csp/article/K12213214
+
+K4707: Choosing appropriate profiles for HTTP traffic
+https://support.f5.com/csp/article/K4707
+
+K13284: Overview of management interface routing (11.x - 16.x)
+https://support.f5.com/csp/article/K13284
+
+K15740: Overview of adaptive connection reaping (11.6.0 and later)
+https://support.f5.com/csp/article/K15740
+
+K3422: Overview of content spooling
+https://support.f5.com/csp/article/K3422
+
+K15234: Adding trunked ports to a VLAN using tmsh (11.x - 16.x)
+https://support.f5.com/csp/article/K15234
+
+K13309: Restricting access to the Configuration utility by source IP address (11.x - 16.x)
+https://support.f5.com/csp/article/K13309
+
+K13452: Configure a virtual server to serve multiple HTTPS sites using the TLS Server Name Indication feature
+https://support.f5.com/csp/article/K13452
+
+K14779: Overview of BIG-IP SYN cookie protection (11.3.x - 12.x)
+https://support.f5.com/csp/article/K14779
+
+K31967403: Configuring software SYN cookie protection for nPath routing
+https://support.f5.com/csp/article/K31967403
+
+K13083: Configuring syslog settings from the command line (11.x - 15.x)
+https://support.f5.com/csp/article/K13083
+
+K13675: Overview of the stateless virtual server
+https://support.f5.com/csp/article/K13675
+
+K15040: Configuring and displaying the management IP address for the BIG-IP system
+https://support.f5.com/csp/article/K15040
+
+K15434: Overview of the HTTP Compression profile
+https://support.f5.com/csp/article/K15434
+
+K14903: Overview of the Web Acceleration profile
+https://support.f5.com/csp/article/K14903
+
+K39394712: Overview of the Stream profile
+https://support.f5.com/csp/article/K39394712
+
+K15740: Overview of adaptive connection reaping (11.6.0 and later)
+https://support.f5.com/csp/article/K15740
+
+K15462: Managing SSL certificates for BIG-IP systems using tmsh
+https://support.f5.com/csp/article/K15462
+
+K6475: Overview of SSL TPS licensing limits
+https://support.f5.com/csp/article/K6475
+
+K53851362: Displaying and deleting BIG-IP connection table entries from the command line
+https://support.f5.com/csp/article/K53851362
+
+K15222: Use link-aggregated trunks for multi-bladed VIPRION systems
+https://support.f5.com/csp/article/K15222
+
+K20081511: Shutting down and restarting the vCMP guest from the vCMP host
+https://support.f5.com/csp/article/K20081511
+
+K37361453: Configuring network failover for redundant VIPRION systems (13.x - 16.x)
+https://support.f5.com/csp/article/K37361453
+
+K16947: F5 recommended practices for the HA group feature
+https://support.f5.com/csp/article/K16947
